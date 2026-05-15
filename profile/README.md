@@ -1,4 +1,4 @@
-## 🧩 Piece - 가치관 기반 이반 소개팅 서비스  🧩
+## 🧩 Piece - 가치관 기반 소개팅 서비스  🧩
 
 <img width="400" alt="poster" src="https://github.com/user-attachments/assets/65157d02-7aba-45ed-81b5-78eade5df122" />
 <img width="400" alt="poster-1" src="https://github.com/user-attachments/assets/7132ed4c-1ab5-4aff-97f6-4742999a2e51" />
@@ -65,5 +65,6 @@
 
 ## 📄 Etc
 
+[👉 Piece 랜딩페이지](https://www.puzzly.site)
 [👉 Piece 인스타그램](https://www.instagram.com/piece_puzzly?igsh=YnBtbTl1ZDNzZmp2)
 
